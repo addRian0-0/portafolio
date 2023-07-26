@@ -1,5 +1,4 @@
 import { useTranslation } from "react-i18next";
-import styles from "../styles/main.scss";
 
 interface Props {
     title: string;
