@@ -24,6 +24,7 @@ function Navbar() {
                         <LinkScroll className="nav-item"
                             to="about"
                             spy={true}
+                            onClick={showNavbar}
                             smooth={true}
                             offset={-70}
                             duration={1000}
@@ -36,6 +37,7 @@ function Navbar() {
                             spy={true}
                             smooth={true}
                             offset={-70}
+                            onClick={showNavbar}
                             duration={1000}
                         >
                             {t("header.skills")}
@@ -47,11 +49,13 @@ function Navbar() {
                             smooth={true}
                             offset={-70}
                             duration={1000}
+                            onClick={showNavbar}
                         >
                             {t("header.projects")}
                             {/* <a className="nav-item" href="#projects">  </a> */}
                         </LinkScroll>
                         <select
+                            defaultValue="es"
                             onChange={(e) => i18n.changeLanguage(e.target.value)}
                             name="option-language" id="select-language">
                             <option value="es"> {t("language.spanish")} </option>

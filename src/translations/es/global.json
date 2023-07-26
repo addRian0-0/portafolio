@@ -1,4 +1,7 @@
 {
+    "errors": {
+        "error-page": "Lo sentimos, se ha producido un error inesperado."
+    },
     "language": {
         "english": "Inglés",
         "spanish": "Español"

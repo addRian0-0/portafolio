@@ -1,4 +1,7 @@
 {
+    "errors": {
+        "error-page": "Sorry, an unexpected error has occurred."
+    },
     "language": {
         "english": "English",
         "spanish": "Spanish"
