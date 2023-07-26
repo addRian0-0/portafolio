@@ -1,0 +1,64 @@
+{
+    "language": {
+        "english": "Inglés",
+        "spanish": "Español"
+    },
+    "header": {
+        "home": "Inicio",
+        "about": "Acerca",
+        "skills": "Habilidades",
+        "projects": "Proyectos",
+        "download": "Descargar"
+    },
+    "presentation": {
+        "hello": "¡Hola! Soy ",
+        "subtitle": "Desarrollador web Front-end, Back-end o FullStack, llámalo como quieras.",
+        "me": "Soy",
+        "more-about-me": "Un poco más de mi",
+        "description": " me percibo como alguien que tiene sus metas claras y con una verdadera pasión por aprender, me gusta brindar mi apoyo como me gustaría recibirlo. Soy alguien que tiene en claro su persona, las malas y buenas actitudes que me conforman y que trata de corregir las malas para mejorar como persona."
+    },
+    "skills": {
+        "title": "Mis habilidades en",
+        "more-information": "Más información sobre mi formación y habilidades",
+        "description": "Durante los últimos años, me he enfocado en estudiar programación con un enfoque en el desarrollo web, tanto del lado del cliente como del servidor. He trabajado con tecnologías como:",
+        "technologies": {
+            "vanilla": "Vanilla",
+            "languages": "Lenguajes",
+            "frameworks-libraries": "Frameworks y librerias",
+            "databases": "Bases de datos",
+            "others": "Otros softwares"
+        }
+    },
+    "projects": {
+        "title": "Proyectos",
+        "link-app": "Ir a la aplicación",
+        "link-repo": "Ir al repositorio",
+        "app-subneteo": {
+            "title": "App Subneteo",
+            "description": "Esta es una aplicacion web desarrollada con React.js y TypeScript, creada con Vite,\ndesplegada en Vercel; en el que tu podras ingresar una\ndireccion\nIP y las redes requeridas y\nobtendras:",
+            "list": [
+                "Mascara de red en binario",
+                "Mascara de red en decimal",
+                "Clase de red (A, B, C)",
+                "El rango entre subredes o salto",
+                "Numero de hosts por subred",
+                "La secuencia de la mascara decimal definida por el rango"
+            ]
+        },
+        "miniwiki-genshin": {
+            "title": "MiniWiki personal Genshin Impact",
+            "description": "Una pequeña wiki personal sobre Genshin Impact que además sirve para ensayar conceptos y\ntecnologías de desarrollo web.Construida con:"
+        },
+        "crypto-app": {
+            "title": "CryptoApp",
+            "description": "Una app en la que podrás obtener la información de diferentes criptomonedas, como su\nnombre, nombre clave, imagen, simbolo, de igual manera sus datos de mercado como el ATH, precio actual\nvolumen y su cambio de precio en las ultimas horas."
+        },
+        "personal-portfolio": {
+            "title": "Portafolio personal",
+            "description": "Mi portafolio personal en el que conocerás más de mis aptitudes y actitudes como persona y como desarrollador web. Construido con:"
+        }
+    },
+    "footer": {
+        "rights-reserved": "Todos los derechos reservados."
+    }
+}

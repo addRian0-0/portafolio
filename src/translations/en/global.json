@@ -1,0 +1,64 @@
+{
+    "language": {
+        "english": "English",
+        "spanish": "Spanish"
+    },
+    "header": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "download": "Download"
+    },
+    "presentation": {
+        "hello": "Hello! I am",
+        "subtitle": "Front-end, Back-end or FullStack web developer, call it what you want.",
+        "me": "I am",
+        "more-about-me": "More about me",
+        "description": " I perceive myself as someone who has clear goals and a true passion for learning, I like to offer my support as I would like to receive it. I am someone who is clear about his person, the bad and good attitudes that make me up and who tries to correct the bad ones to improve as a person."
+    },
+    "skills": {
+        "title": "My skills in",
+        "more-information": "Learn more about my training and skills",
+        "description": "For the past few years, I have focused on studying programming with a focus on web development, both client-side and server-side. I have worked with technologies such as:",
+        "technologies": {
+            "frameworks-libraries": "Frameworks and Libraries",
+            "languages": "Languages",
+            "databases": "Databases",
+            "others": "Other Softwares",
+            "vanilla": "Vanilla"
+        }
+    },
+    "projects": {
+        "title": "Projects",
+        "link-app": "Go to app",
+        "link-repo": "Go to repository",
+        "app-subneteo": {
+            "title": "Subnetting App",
+            "description": "This is a web application developed with React.js and TypeScript, created with Vite,\ndeployed on Vercel; where you can enter an\nIP address and the required networks, and you will get:",
+            "list": [
+                "Network Mask in binary",
+                "Network Mask in decimal",
+                "Network class (A, B, C)",
+                "Subnet Range or Jump",
+                "Number of hosts per subnet",
+                "Sequence of decimal masks defined by the range"
+            ]
+        },
+        "miniwiki-genshin": {
+            "title": "Personal MiniWiki Genshin Impact",
+            "description": "A small personal wiki about Genshin Impact that also serves to practice web development concepts and\ntechnologies. Built with:"
+        },
+        "crypto-app": {
+            "title": "CryptoApp",
+            "description": "An app where you can obtain information about different cryptocurrencies, such as their\nname, ticker, image, symbol, as well as their market data such as ATH, current price,\nvolume, and price change in the last hours."
+        },
+        "personal-portfolio": {
+            "title": "Personal Portfolio",
+            "description": "My personal portfolio where you will learn more about my skills and attitudes as a person and as a web developer. Built with:"
+        }
+    },
+    "footer": {
+        "rights-reserved": "All rights reserved."
+    }
+}
