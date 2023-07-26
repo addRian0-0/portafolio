@@ -1,6 +1,4 @@
-import React from 'react';
 import Telegram from '@mui/icons-material/Telegram';
-import AlternateEmailIcon from '@mui/icons-material/AlternateEmail';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';

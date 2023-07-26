@@ -1,7 +1,7 @@
-import { HTMLAttributes, useRef } from "react";
+import { useRef } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { useTranslation } from "react-i18next";
-import { Link as LinkScroll, animateScroll as scroll } from "react-scroll";
+import { Link as LinkScroll } from "react-scroll";
 
 import cvDownload from "../assets/Ithan-Flores-CV.pdf";
 import "../styles/main.scss";

@@ -1,8 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import KeyboardArrowLeftIcon from '@mui/icons-material/KeyboardArrowLeft';
 import KeyboardArrowRightIcon from '@mui/icons-material/KeyboardArrowRight';
 import Tooltip from '@mui/material/Tooltip';
-import styles from "../styles/Components.module.scss";
 
 import { IHabilidades, TypesSection } from "../interfaces/HabilidadesTecnologicas";
 import { tecFront, tecBack } from "../helpers/assets-imgs";
