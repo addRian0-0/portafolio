@@ -89,7 +89,7 @@ function Skills() {
                             </div>
                             <div className="content">
                                 {
-                                    secHab.tecnologias.map((tec, index) => {
+                                    secHab.tecnologias.map((tec) => {
                                         return tec.section === section ?
                                             <div
                                                 className={`animate__animated animate__fadeInDown`}
