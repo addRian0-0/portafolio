@@ -54,8 +54,8 @@ function Navbar() {
                         <select
                             onChange={(e) => i18n.changeLanguage(e.target.value)}
                             name="option-language" id="select-language">
-                            <option value="en"> {t("language.english")} </option>
                             <option value="es"> {t("language.spanish")} </option>
+                            <option value="en"> {t("language.english")} </option>
                         </select>
                         <button className="btn-cv" >
                             <a href={cvDownload} download > {t("header.download")} CV</a>
