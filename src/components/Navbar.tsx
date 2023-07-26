@@ -21,32 +21,35 @@ function Navbar() {
                 <h1>Ithan Flores</h1>
                 <div>
                     <nav ref={navRef}>
-                        <LinkScroll
+                        <LinkScroll className="nav-item"
                             to="about"
                             spy={true}
                             smooth={true}
                             offset={-70}
                             duration={1000}
                         >
-                            <a className="nav-item" href="#about"> {t("header.about")} </a>
+                            {t("header.about")}
+                            {/* <a className="nav-item" href="#about">  </a> */}
                         </LinkScroll>
-                        <LinkScroll
+                        <LinkScroll className="nav-item"
                             to="skills"
                             spy={true}
                             smooth={true}
                             offset={-70}
                             duration={1000}
                         >
-                            <a className="nav-item" href="#skills"> {t("header.skills")} </a>
+                            {t("header.skills")}
+                            {/* <a className="nav-item" href="#skills">  </a> */}
                         </LinkScroll>
-                        <LinkScroll
+                        <LinkScroll className="nav-item"
                             to="projects"
                             spy={true}
                             smooth={true}
                             offset={-70}
                             duration={1000}
                         >
-                            <a className="nav-item" href="#projects"> {t("header.projects")} </a>
+                            {t("header.projects")}
+                            {/* <a className="nav-item" href="#projects">  </a> */}
                         </LinkScroll>
                         <select
                             onChange={(e) => i18n.changeLanguage(e.target.value)}
