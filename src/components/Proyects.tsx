@@ -66,8 +66,8 @@ function Proyects() {
                 `TypeScript`,
                 `Mui`,
             ],
-            linkApp: "https://portafolio-addrian.vercel.app/",
-            linkrepo: "https://github.com/addRian0-0/portafolio-addrian"
+            linkApp: "https://www.addrian.tech/",
+            linkrepo: "https://github.com/addRian0-0/portafolio"
         }
     ];
     return (
