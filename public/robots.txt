@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /components
+
+# Host
+Host: https://www.addrian.tech/
+
+# Sitemaps
+Sitemap: https://www.addrian.tech/sitemap.xml

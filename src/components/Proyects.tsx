@@ -66,7 +66,7 @@ function Proyects() {
                 `TypeScript`,
                 `Mui`,
             ],
-            linkApp: "https://www.addrian.tech/",
+            linkApp: "/",
             linkrepo: "https://github.com/addRian0-0/portafolio"
         }
     ];
